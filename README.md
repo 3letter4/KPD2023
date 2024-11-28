@@ -1,7 +1,3 @@
-Certainly! Below is an example explanation that you can use in your **README.md** for your GitHub repository. It describes the contents of each section and the purpose of the files within your project. Feel free to adjust it based on your specific goals or any extra details you want to include.
-
----
-
 # PHP Exercises Collection (KPD2023)
 
 This repository contains a series of PHP exercises and scripts that I have created and worked on as part of my **KPD2023** course. The collection covers various aspects of PHP, including arrays, data types, functions, control structures, loops, and more. Each file demonstrates a different concept or functionality in PHP.
@@ -119,12 +115,3 @@ php Gred.php
 ## Contributing
 
 Feel free to fork the repository, make changes, and submit pull requests. If you have any improvements or new examples you'd like to contribute, feel free to create an issue or submit a pull request!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This format will give your GitHub repository a clear structure and explanation of what each file does. Adjust the descriptions for the files according to your specific needs or what you want to emphasize in your course.
-
