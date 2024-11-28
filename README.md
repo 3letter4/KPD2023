@@ -1,5 +1,6 @@
-# KPD2023
-This is where I learn KPD2023 which is I learn PHP
+# PHP Projects Collection (KPD2023)
+
+This repository contains a collection of PHP exercises and examples that I have learned as part of the **KPD2023** course. These files demonstrate fundamental PHP concepts such as functions, arrays, loops, conditionals, and more. The goal is to showcase the practical implementation of PHP syntax and operations learned during the course.
 ---
 # PHP Projects Collection
 
