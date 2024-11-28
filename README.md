@@ -1,7 +1,6 @@
 # PHP Projects Collection (KPD2023)
 
 This repository contains a collection of PHP exercises and examples that I have learned as part of the **KPD2023** course. These files demonstrate fundamental PHP concepts such as functions, arrays, loops, conditionals, and more. The goal is to showcase the practical implementation of PHP syntax and operations learned during the course.
----
 # PHP Projects Collection
 
 This repository contains a collection of PHP files for various learning exercises, functions, and examples. These files demonstrate a variety of PHP concepts, including functions, arrays, loops, conditionals, and more. The files are organized to show examples of PHP syntax, operators, and real-world applications.
